@@ -1,0 +1,47 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8.999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Infiniti",
+      "model": "Q",
+      "year": "2015",
+      "price": "14.999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "S-class",
+      "year": "2016",
+      "price": "18.999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "BMW",
+      "model": "5-series",
+      "year": "2014",
+      "price": "16.999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2010",
+      "price": "8.999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+   {
+      "make": "Honda",
+      "model": "Accord",
+      "year": "2011",
+      "price": "13.999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    }
+
+  ]
+}
